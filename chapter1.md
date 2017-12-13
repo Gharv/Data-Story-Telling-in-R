@@ -1,6 +1,6 @@
 ---
 title       : Introduction to R
-description : 
+description : Basic operations in R
 ---
 ## Question 3
 
