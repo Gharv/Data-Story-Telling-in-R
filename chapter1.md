@@ -1,5 +1,5 @@
 ---
-title       : Introduction to R
+title       : Getting Started in R
 description : Basic operations in R
 ---
 ## Question 3
