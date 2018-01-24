@@ -1,6 +1,6 @@
 ---
-title       : Basic Visulization
-description : Basic visulization with graphs and plots in R
+title       : Basic Visualization
+description : Basic visualization with graphs and plots in R
 ---
 ## Question 8 part 1
 ```yaml
